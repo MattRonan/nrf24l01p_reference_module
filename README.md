@@ -8,3 +8,5 @@ The nrf24l01+ is cheap, well documented, and easy to use, but is way less availa
 I wouldnt have to rely on amazon or ali baba suppliers in the future.  I would upload the Nordic PDF since it has more info about component selection and stuff but I don't know if that's allowed.  So hopefully it will stay available on their website at https://www.nordicsemi.com/Products/nRF24-series
 
 The pdf that this board is based off of is under nRF24Files/nRF24L01P-EK/Documentation/nRF24L01pluss_REFERENCE_MODULES
+
+There are improvements that can be made, most of all shrinking the antenna size down to match typical nrf modules but this is a good starting point
